@@ -1,6 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Chow's title"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad ysadasdasdaout ...
 Hello World!
